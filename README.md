@@ -1,7 +1,7 @@
 # Faretheewellness
 Healing doesn't have to hurt.
 
-## About Heal Your Face
+## About Heal Your Face (HYF)
 
 Heal Your Face exists for victims of interconnected crises including homelessness, addiction, depression, violence, bullying, self-harm, suicide, hunger, trauma, and identity collapse. 
 
